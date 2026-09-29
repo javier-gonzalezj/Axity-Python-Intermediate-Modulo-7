@@ -1,0 +1,10 @@
+__pycache__/
+logs/
+*.bak
+*.pyc
+.venv/
+data/exportaciones/
+data/portadas/
+data/*.db
+.coverage
+data/*.joblib
